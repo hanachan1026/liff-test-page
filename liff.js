@@ -1,7 +1,7 @@
 $(document).ready(function () {
     // liffId: LIFF URL "https://liff.line.me/xxx"のxxxに該当する箇所
     // LINE DevelopersのLIFF画面より確認可能
-    var liffId = "i1655640405-7RPVLexV";
+    var liffId = "1655640405-7RPVLexV";
     initializeLiff(liffId);
 })
 
